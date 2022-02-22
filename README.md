@@ -1,3 +1,16 @@
+# Project Description
+This project was created by Elio Gerges.
+## Project version:
+1.0
+
+## Project future:
+2.0: 
+### Implement commented project components:
+- Data search by movie title in the header
+- Implement movies + tv shows
+- Implement pagination
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
